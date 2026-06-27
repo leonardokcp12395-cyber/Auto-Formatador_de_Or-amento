@@ -1,0 +1,48 @@
+{
+    "aplicacao": {
+        "nome": "SISORC ULTIMATE",
+        "versao": "11.0.0",
+        "tema": "Dark"
+    },
+    "historico": {
+        "ultimo_sintetico": ".../Autoformata/DADOS_LIMPOS.xlsx",
+        "ultimo_modelo": ".../Autoformata/MODELO SUP.xlsx"
+    },
+    "sanitizacao": {
+        "timeout": 30,
+        "limpar_temp": true
+    },
+    "excel": {
+        "linha_inicial_modelo": 25,
+        "rodape": {
+            "inicio": 26,
+            "fim": 51
+        },
+        "colunas": {
+            "A": {
+                "origem": "ITEM"
+            },
+            "B": {
+                "origem": "CÓDIGO"
+            },
+            "C": {
+                "origem": "FONTE"
+            },
+            "D": {
+                "origem": "DESCRIÇÃO"
+            },
+            "E": {
+                "origem": "UNID"
+            },
+            "F": {
+                "origem": "QUANT"
+            },
+            "G": {
+                "origem": "UNIT"
+            },
+            "H": {
+                "origem": "TOTAL"
+            }
+        }
+    }
+}
