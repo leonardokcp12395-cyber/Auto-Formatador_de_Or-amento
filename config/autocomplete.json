@@ -1,0 +1,76 @@
+{
+    "campus": [
+        "ALTAMIRA",
+        "BELÉM",
+        "BREVES",
+        "CASTANHAL",
+        "SOURE",
+        "TUCURUÍ"
+    ],
+    "setor": [
+        "AUDITÁRIO SETORIAL 1 E 2",
+        "CAMPUS SOURE",
+        "CAPACIT",
+        "CAPELA ECUMÊNICA",
+        "CASA DO ESTUDANTE",
+        "CEBN",
+        "CEPS",
+        "CMA - CENTRO DE MEMORIA DA AMAZONIA",
+        "CTIC",
+        "ESCOLA DE MUSICA DA UFPA - EMUFPA",
+        "ETDUFPA",
+        "FACULDADE DE FARMÁCIA",
+        "ICA",
+        "ICED",
+        "ICSA",
+        "IG",
+        "INSINSTITUTO DE GEOCIÊNCIAS",
+        "MIRANTE DO RIO",
+        "NTPC",
+        "PROAD",
+        "REITORIA",
+        "RESTAURANTE UNIVERSITÁRIO"
+    ],
+    "servidor": [
+        "ANNA BELLISA SILVA RODRIGUES",
+        "ANTONIO MAURICIO DIAS",
+        "DAYSE DE OLIVEIRA",
+        "FÁBIO MENDONÇA BARBOSA",
+        "JOHN FLETCHER COUSTON JUNIOR",
+        "JULIANO CÁSSIO",
+        "JÉSSICA TARINE MOITINHO DE LIMA",
+        "MARILIA GABRIELA DE SENA FARIAS",
+        "TARIK COELHO ALVES",
+        "TESTSERVIDOR",
+        "VALDA HELENA"
+    ],
+    "elaborador": [
+        "ALLAN CARDOSO",
+        "ARNALDO AGUIAR",
+        "LUCAS ROSA",
+        "MATHEUS KENJI",
+        "MIKE PEREIRA",
+        "MONALISA CHAVES",
+        "PAULO SÉRGIO",
+        "ROBERTO SALGADO",
+        "ROMULO DAVI",
+        "ROMULO LOPES",
+        "RÔMULO LOPES"
+    ],
+    "estagiario": [
+        "LEONARDO KAUA"
+    ],
+    "fiscal": [
+        "ALLAN CARDOSO",
+        "ARNALDO AGUIAR",
+        "LUCAS ROSA",
+        "MATHEUS KENJI",
+        "MIKE PEREIRA",
+        "MONALISA CHAVES",
+        "PAULO SÉRGIO",
+        "ROBERTO SALGADO",
+        "ROMULO DAVI",
+        "ROMULO LOPES",
+        "RÔMULO LOPES"
+    ]
+}

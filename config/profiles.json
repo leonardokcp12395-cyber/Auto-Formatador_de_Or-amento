@@ -1,0 +1,39 @@
+{
+    "ultimo_perfil_usado": "PADRAO_SINTETICO",
+    "perfis": {
+        "PADRAO_SINTETICO": {
+            "input": {
+                "coluna_item": "ITEM",
+                "coluna_descricao": "DESCRIÇÃO",
+                "coluna_unidade": "UND",
+                "coluna_quantidade": "QUANT.",
+                "coluna_unitario": "VALOR UNIT"
+            },
+            "modelo": {
+                "inicio_leitura_trigger": "ITEM",
+                "inicio_escrita_trigger": "DESCRIÇÃO",
+                "colunas_saida": {
+                    "item": 1,
+                    "codigo": 2,
+                    "ref": 3,
+                    "descricao": 4,
+                    "unidade": 5,
+                    "quantidade": 6,
+                    "unitario": 7,
+                    "total": 8
+                }
+            }
+        },
+        "PADRAO": {
+            "input": {
+                "ITEM": "Item",
+                "CODIGO": "Código",
+                "BANCO": "Banco",
+                "DESCRICAO": "Descrição",
+                "UNID": "Und",
+                "QUANT": "Quant.",
+                "UNIT": "Valor Unit"
+            }
+        }
+    }
+}
